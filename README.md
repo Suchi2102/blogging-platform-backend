@@ -16,7 +16,7 @@ This is a RESTful API for managing blog posts with features such as authenticati
 - Postman or similar tool for testing the API.
 
 ## Getting Started
-### Clone the Repository
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Suchi2102/blogging-platform-backend.git
@@ -33,4 +33,8 @@ This is a RESTful API for managing blog posts with features such as authenticati
 Running Tests
 To run the unit tests, execute:
 npm test
+
+URL for published documentation
+https://documenter.getpostman.com/view/38814313/2sAXxMgZXo
+
 
