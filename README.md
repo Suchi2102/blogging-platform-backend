@@ -21,3 +21,16 @@ This is a RESTful API for managing blog posts with features such as authenticati
    ```bash
    git clone https://github.com/Suchi2102/blogging-platform-backend.git
    cd blogging-platform
+2. Install necessary dependencies:
+   npm install express mongoose body-parser
+   npm install express-jwt jsonwebtoken bcryptjs
+   npm install --save-dev jest supertest
+3. Set up environment variables:
+   Create a .env file and add your MongoDB connection string.
+   MONGODB_URI=mongodb://localhost:27017/your_database_name
+4. Start the server
+   npm start
+Running Tests
+To run the unit tests, execute:
+npm test
+
